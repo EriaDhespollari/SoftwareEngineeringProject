@@ -6,3 +6,9 @@ People who choose to use this application not only help themselves but also thei
 In addition to good time management, another good thing that comes from opening this application is eating healthily. As mentioned above, people, due to the momentum of everyday life, order through online applications to eat during meals mainly foods harmful to health, or as they are otherwise called "junky foods". Therefore, one of the main goals of creating this application is to give people the opportunity to improve their diet and have a healthier physique. Moreover, this application provides convenience and comfort for people with or without a busy life.  
 
 Our application is pretty simple to use. After the user creates an account he can surf through the various supermarkets that offer delivery for groceries. After choosing the supermarket they prefer we will show a variety of vegetables and fruits the supermarket has to offer. They can choose their desired products and proceed to checkout. At the checkout they are asked to write down their address and a preferred time when would they like to have their groceries received. Regarding the payment it will be done with cash in hand or through a credit card.
+
+Team Members:
+Eria Dhespollari (Leader)
+Amber Tepshi
+Emla Kurti
+Armena Ballo
