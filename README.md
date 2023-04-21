@@ -90,3 +90,4 @@ These too models show how the customer and the vendor act when processing an ord
 We start with the customer. The customer firstly logs in. After logging in, the customer searches for products and puts the preferred ones in the cart. After being sure of his list he proceeds to check out and pay for the products as well as specify the address he would like the products to be delivered.
 While the vendor’s action are a bit different. When the vendor logs in he has to check the order list as he might have received many different orders. After preparing each order and sending them off he updates the status notifying the customer that the order is in its way. When everything is completed and the vendor calls it a day he can log out.
 
+[Copy of software.drawio.pdf](https://github.com/EriaDhespollari/SoftwareEngineeringProject/files/11297785/Copy.of.software.drawio.pdf)
