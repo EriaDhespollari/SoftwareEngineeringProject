@@ -61,6 +61,11 @@ d. Federal Trade Commission Act (FTC Act) - The FTC Act is a law that forbids un
 surely lead you to a similar store, albeit one that is big and limited but is self-sufficient and meets almost all of the needs of the neighborhood's residents. Due to grocery delivery, online grocery buying, home shopping, personal care services, etc., the success of hyper- local e-commerce websites has assumed a completely new dimension. The unique selling proposition of hyper-local e-commerce companies is their readiness to offer goods and services incredibly quickly. The hyperlocal distribution models promise their customers that they will gather up the products you ordered in as little as an hour. In this network we start with the customer which places an order on the app. The app sends the order to the local shop that is already registered and has an account in the application. After the order is ready delivery picks it up and takes it to the customer. This goes on in an endless loop as it is a definition of a network as well. We plan to make some changes to this model in order to fit our user requirements and needs.
 
 
+![image](https://github.com/EriaDhespollari/SoftwareEngineeringProject/assets/128367839/7fdaef99-2fe9-4f32-941e-d87c9a60d4d4)
+
+
+
+
 User requirements and Application specifications (Eria, Armena, Emla)
 
 We are four developers that are going to work for this project and with his collaboration we have decided some app specification which are:
