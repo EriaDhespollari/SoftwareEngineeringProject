@@ -13,6 +13,8 @@ People who choose to use this application not only help themselves but also thei
 
 In addition to good time management, another good thing that comes from opening this application is eating healthily. As mentioned above, people, due to the momentum of everyday life, order through online applications to eat during meals mainly foods harmful to health, or as they are otherwise called "junky foods". Therefore, one of the main goals of creating this application is to give people the opportunity to improve their diet and have a healthier physique. Moreover, this application provides convenience and comfort for people with or without a busy life.  
 
+
+
 Intended Audience and Reading Suggestions
 
 A grocery shopping app is a flexible tool that has something to offer many different kinds of users across various contexts. It is our considered opinion that utilizing a grocery shopping app can be quite advantageous for a wide range of people. This includes not only individuals, but also families
@@ -21,6 +23,7 @@ and businesses; any group or organization that must buy groceries on a regular b
  Families: Families nowadays can take advantage of the technology that provides a grocery shopping app, which represents a practical solution because it allows them to manage their purchases more simply and with ease. Through using this application, families get the benefit of creating shopping lists, tracking their orders and reordering their favorites items.
  Seniors: Seniors who, due to their age, cannot go out and do shopping while carrying heavy weights can choose to use this application in order to get their grocery shopping done. Without having to leave their homes, they can order groceries and have them delivered.
  Businesses: In the food service industry, restaurants, cafes and other businesses can optimize their efficiency by making use of modern technology. Specifically, they can turn to grocery shopping apps to order crucial items for their operations with ease and have these items delivered directly to them. Some people who choose to use this application can not only help themselves but also their relatives, such as grandparents, by ordering items for them and having them delivered to their home address.
+
 
 
 Product Scope
@@ -37,6 +40,8 @@ everything delivered, all from the comfort of their own home. It typically inclu
 Our application is pretty simple to use. After the user creates an account he can surf through the various grocery stores. After choosing the store they prefer we will show a variety of vegetables and fruits it has to offer. They can choose their desired products while adding them to cart and proceed to checkout when they are done. At the checkout they are asked to write down their address and a preferred time when would they like to have their groceries received. Regarding the payment it will be done with cash in hand or through a credit card.
 
 As an app developer company we’re contacted on a daily basis by people with great ideas, looking for help to develop applications for them but in order to give you a ballpark, what we really need is a brief: a plan of work that gives us a feel for the size of the undertaking, and our role within it. Deciding app specifications is very important for us as a developer because firstly it allow us to get a real feel for clients needs, help us ascertain the size and price of the job and give us focus for the project. For this client we have to create a grocery shopping app. 
+
+
 
 Product Perspective
 
@@ -123,7 +128,73 @@ The vendors can use this function to update the order's delivery status after pi
 •	delivered
 •	delayed and more
 
+
+
+Operating Environment
+When developing a grocery shopping app, it is important to consider the environment in which the software will operate. Specifically, this means taking into account key considerations such as hardware platform and operating system versions.
+1. Hardware Platform
+When considering the hardware platform on which your app will run, it is important to ensure that it can operate smoothly on a variety of devices; this includes smartphones and tablets with varying specs like processor speed, RAM capacity and storage size of memory.
+2. Operating system
+To ensure widespread availability and accessibility of the grocery shopping app, it is essential that it be developed to run on popular operating systems such as Android and iOS. In fact, the app should be designed to accommodate both newer and older versions of these operating systems in order to cater to users who are using older devices.
+3. Other software components or applications
+Compatibility with different software components or applications, such as web browsers or social media apps, is also crucial for seamless functioning. As a result, developers must take extra care in ensuring that the grocery app runs smoothly with these components and applications
+
+There are additional factors that the grocery shopping app developers need to consider, apart from hardware and software requirements. The app should also factor in network and security specifications to ensure user protection. It is essential for this app to function across diverse network connections, which include not only Wi-Fi but also cellular data. Furthermore, the developers should prioritize incorporating security features into the design as a measure against potential risks that may compromise users&#39; sensitive information.
+
+
+
+Design and Implementation Constraints
+
+There exist several items and issues that may serve as hindrances to the options accessible to developers creating a grocery shopping app. These factors are:
+1. Regulatory compliance
+Due to various laws surrounding data privacy, payment regulations, and food safety rules, certain technologies and tools may become unavailable for use in constructing the app.
+2. Hardware limitations
+Hardware limitations consist in requiring specific hardware requirements to be met for the app to function properly. These requirements may include minimum processor speed, memory requirements, or camera resolution if the app includes scanning functionalities.
+3. Interfaces to other applications
+Developing an app requires adherence to specific protocols and APIs in order to interface with other applications or systems such as payment gateways, delivery tracking systems or inventory management systems. This may limit the options available to the developers for creating interfaces that properly work within the given architecture.
+4. Security considerations
+Security is of utmost importance in app design. Therefore, developers must take into consideration secure data storage, encryption, and access control when building an application.
+5. Design conventions and programming standards
+The customer's organization may have strict design conventions and programming standards that need to be followed. This factor can limit the development team's choices when designing and coding the application.
+6. Language requirements
+If the app needs to be available in multiple languages, then certain frameworks or libraries may not be suitable for development.
+7. Budget constraints
+When working on the development of an app, budget constraints can often limit the options available for technologies, tools, and development approaches. Unfortunately, this can often mean that developers must choose between practicality and innovation when deciding which direction to take their work in.
+
+
+
+User Documentation
+
+The user documentation for the grocery shopping app will comprise several components.
+1. User Manual
+A user manual is a comprehensive guide explaining how to use the application. The manual will provide in-depth instructions on all of the app&#39;s features and functions, including but not limited to creating an account, searching for products, adding items to cart, making payments and tracking orders.
+2. Frequently Asked Questions (FAQs)
+The FAQs section of the app will offer answers to frequently asked questions about account management, product search, order tracking, and payments. This resource will provide users with quick solutions to common problems they may encounter while using the app. The user documentation for the app will be made available in a digital format, and users can access it either through the app or its website. It is designed to be user-friendly, with clear language and illustrations that make it easy to navigate the various features and functions of the app.
+
+
+
+Assumptions and Dependencies
+
+Assuming the implementation of a grocery shopping app, there are several potential factors that could impact the requirements stated in its Software Requirements Specification (SRS).
+1. Availability of third-party APIs for location tracking, payment gateways and other such functionalities is an important consideration to keep in mind.
+2. The smooth functioning of the app would also depend heavily on internet connectivity and network availability.
+3. User acceptance is another key factor to consider given their willingness to adopt new technologies for online grocery shopping.
+4. Vendors' consistency and precision in sharing data pertaining to accessibility of products and the pricing are essential factors.
+5. The scalability of the app is important so that it can endure heavy traffic from numerous users at peak hours without crashing.
+6. Ensuring security against cyber-attacks, fraudulent activities, and safeguarding user data must be taken into account as well.
+7. Compatibility with various operating systems on diverse hardware such as desktops, tablets, and mobile phones stands paramount.
+8. It is also necessary to abide by legal and regulatory requirements for online grocery shopping which encompass tax policies, privacy guidelines, and laws that protect user information.
+Dependencies on external factors include:
+1. Availability and compatibility of software components and APIs, the timely delivery of
+hardware components like servers, routers, and switches.
+2. Abundance of competent developers required for software development and testing purposes.
+3. Complying with industry regulations like PCI-DSS and ISO 27001 remains mandatory if you wish to achieve your objectives.
+4. Collaborating with stakeholders from vendors, delivery services to payment gateways may prove pivotal in achieving a streamlined experience.
+
+
+
 Application design and modeling
+
 ![2](https://user-images.githubusercontent.com/128367577/233693115-9acaf94b-40a5-4131-92d9-425b47334349.PNG)
 These too models show how the customer and the vendor act when processing an order. 
 We start with the customer. The customer firstly logs in. After logging in, the customer searches for products and puts the preferred ones in the cart. After being sure of his list he proceeds to check out and pay for the products as well as specify the address he would like the products to be delivered.
