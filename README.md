@@ -6,25 +6,59 @@ Amber Tepshi
 Emla Kurti
 Armena Ballo
 
+INTRODUCTION
 
 Every day in our daily routine people encounter difficulties or problems from the biggest to the smallest. The pace of life we have is quite intense, and often we don't have enough time to fulfill all our needs or tasks. Many people, due to their commitments during the day, often find it impossible to make various purchases by going to stores in person. We have heard a lot about online shopping and deliveries from clothing stores, restaurants, fast food, perfumery, etc. But what is missing, or more precisely is in a fairly limited number, enough to be counted on the fingers of one's hand, are the applications for the purchase and distribution of groceries.
 People who choose to use this application not only help themselves but also their relatives, such as grandparents, who, due to their age, cannot go out and do shopping while carrying heavy weights.
 
 In addition to good time management, another good thing that comes from opening this application is eating healthily. As mentioned above, people, due to the momentum of everyday life, order through online applications to eat during meals mainly foods harmful to health, or as they are otherwise called "junky foods". Therefore, one of the main goals of creating this application is to give people the opportunity to improve their diet and have a healthier physique. Moreover, this application provides convenience and comfort for people with or without a busy life.  
 
+Intended Audience and Reading Suggestions
+
+A grocery shopping app is a flexible tool that has something to offer many different kinds of users across various contexts. It is our considered opinion that utilizing a grocery shopping app can be quite advantageous for a wide range of people. This includes not only individuals, but also families
+and businesses; any group or organization that must buy groceries on a regular basis can benefit from such an app.
+ Individuals: Nowadays, people are constantly balancing busy schedules. A grocery shopping application is perfect for those who struggle to find the time. They can browse and order items from the comfort of their homes, and have them delivered to their doorstep at the desired time.
+ Families: Families nowadays can take advantage of the technology that provides a grocery shopping app, which represents a practical solution because it allows them to manage their purchases more simply and with ease. Through using this application, families get the benefit of creating shopping lists, tracking their orders and reordering their favorites items.
+ Seniors: Seniors who, due to their age, cannot go out and do shopping while carrying heavy weights can choose to use this application in order to get their grocery shopping done. Without having to leave their homes, they can order groceries and have them delivered.
+ Businesses: In the food service industry, restaurants, cafes and other businesses can optimize their efficiency by making use of modern technology. Specifically, they can turn to grocery shopping apps to order crucial items for their operations with ease and have these items delivered directly to them. Some people who choose to use this application can not only help themselves but also their relatives, such as grandparents, by ordering items for them and having them delivered to their home address.
+
+
+Product Scope
+
+The product scope of this application is to provide a comfortable and easy shopping experience to users, where they can effortlessly browse through different products, create shopping lists and get
+everything delivered, all from the comfort of their own home. It typically includes:
+ User Interface: A top priority when it comes to the app&#39;s interface is user-friendliness. This means that the design and organization should be natural; making it easy for users to navigate through different features and functions.
+ Product Catalog: Users of the app should be able to select from a wide range of locations depending on their home address or perhaps a desired store in another neighborhood. They should also be able to select products from different categories like fruits and vegetables depending on what the stores offers, all in the comprehensive product catalog.
+ Shopping list: Users should be able to make and save shopping lists through the app, which they can then simply modify and reuse for future purchases.
+ Payment Gateway: The application needs to feature a safe payment gateway that enables users to pay with different methods like credit cards or cash in hand.
+ Customer Support: To respond to user questions and issues, the app should offer dependable customer care channels like chat assistance, email help, or phone support.
+
+
 Our application is pretty simple to use. After the user creates an account he can surf through the various grocery stores. After choosing the store they prefer we will show a variety of vegetables and fruits it has to offer. They can choose their desired products while adding them to cart and proceed to checkout when they are done. At the checkout they are asked to write down their address and a preferred time when would they like to have their groceries received. Regarding the payment it will be done with cash in hand or through a credit card.
-
-
 
 As an app developer company we’re contacted on a daily basis by people with great ideas, looking for help to develop applications for them but in order to give you a ballpark, what we really need is a brief: a plan of work that gives us a feel for the size of the undertaking, and our role within it. Deciding app specifications is very important for us as a developer because firstly it allow us to get a real feel for clients needs, help us ascertain the size and price of the job and give us focus for the project. For this client we have to create a grocery shopping app. 
 
+Product Perspective
 
-Development model for their application (Amber)
- 
-The hyper-local marketplace, as its name implies, is a form of competition that caters to the needs of a small area. A short walk from your house would surely lead you to a similar store, albeit one that is big and limited but is self-sufficient and meets almost all of the needs of the neighborhood's residents.
-The most recent e-commerce buzzword is a hyperlocal framework. Due to grocery delivery, online grocery buying, home shopping, personal care services, etc., the success of hyper-local e-commerce websites has assumed a completely new dimension.
-Local offline retailers and service providers now have new leases on life thanks to the rise and growth of hyperlocal networks. Despite the novelty of the concept, the internet's widespread use means that the globe is no longer novel. It has the power to raise offline merchants' businesses to entirely new standards.
-The unique selling proposition of hyper-local e-commerce companies is their readiness to offer goods and services incredibly quickly. The hyperlocal distribution models promise their customers that they will gather up the products you ordered in as little as an hour. In this network we start with the customer which places an order on the app. The app sends the order to the local shop that is already registered and has an account in the application. After the order is ready delivery picks it up and takes it to the customer. This goes on in an endless loop as it is a definition of a network as well.
+The app's overall perspective, place in the market, and compatibility with user requirements are all referred to as the &quot;product perspective&quot; of a grocery shopping app. This application is totally new and a needed novelty to the market. Firstly, it is essential to understand the user&#39;s needs and behavior. Secondly, developing a sustainable business model that complies with the required regulations is crucial for long-term success. Below are some important aspects of this product:
+ User Needs: The app offers meets the needs of the user by offering a different range of stores and products, simple navigation, secure payment and reliable delivery.
+ Market Analysis: A grocery app comes in need to people from different age groups and backgrounds. It adapts to the users need by offering him a wide range of products. Considering it is still an innovative idea we feel that it will be very successful in the market as people have become more and more accepters of new technology that conveniences their life.
+ Technology: The app is user-friendly and comprehensive by all ages. It has been developed by using languages like php, html, javascript and css for its design. The app is available to download on both androids and ios.
+ Software Process Model: We intend on using the waterfall model to develop this application. This is a plan-driven model that includes these phases:
+a. Requirements analysis and definition
+b. System and software design
+c. Implementation and unit testing
+d. Integration and system testing
+e. Operation and maintenance
+Despite choosing this model we decided to incorporate elements from other software process models as well to ensure the best quality product.
+ Regulatory Compliance: The application will obviously comply with the relevant laws and regulations, such as data protection and payment processing. Some of these regulations are:
+a. Payment Card Industry Data Security Standard (PCI DSS) - Businesses that accept credit card payments are required to adhere to the PCI DSS security standards. These requirements must be met by the grocery shopping app in order to protect the privacy of financial transactions.
+b. General Data Protection Regulation (GDPR) - The European Union's (EU) GDPR is a rule that controls how people&#39;s personal data is processed. The grocery shopping app must adhere to GDPR regulations if it collects, stores, or otherwise processes the personal data of EU people.
+c. Food and Drug Administration (FDA) - The FDA&#39;s rules for food safety, labeling, and packaging must be followed by the grocery shopping app if it offers food products.
+d. Federal Trade Commission Act (FTC Act) - The FTC Act is a law that forbids unfair and dishonest business activities. The grocery shopping app needs to make sure that its customer-facing business procedures are just and open.
+
+ Business Model: According to our research a hyper-local marketplace is the best business model for this application. The hyper-local marketplace, as its name implies, is a form of competition that caters to the needs of a small area. A short walk from your house would
+surely lead you to a similar store, albeit one that is big and limited but is self-sufficient and meets almost all of the needs of the neighborhood's residents. Due to grocery delivery, online grocery buying, home shopping, personal care services, etc., the success of hyper- local e-commerce websites has assumed a completely new dimension. The unique selling proposition of hyper-local e-commerce companies is their readiness to offer goods and services incredibly quickly. The hyperlocal distribution models promise their customers that they will gather up the products you ordered in as little as an hour. In this network we start with the customer which places an order on the app. The app sends the order to the local shop that is already registered and has an account in the application. After the order is ready delivery picks it up and takes it to the customer. This goes on in an endless loop as it is a definition of a network as well. We plan to make some changes to this model in order to fit our user requirements and needs.
 
 
 User requirements and Application specifications (Eria, Armena, Emla)
